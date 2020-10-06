@@ -1,6 +1,6 @@
-(* ^ ω ^) Hellu 👋
+(^ ω ^) Hellu 👋
 
-Let's all stay true to ourselves and admit that :cake:cheesecake is the best form of desert. Also foxes and owls are the best animals. :fox_face: :owl:
+Owls, Foxes, Cheesecake and Code what's not to love  :owl: :fox_face: :cake: :computer:
 
 <!--
 **NaveedAhamedsa/NaveedAhamedsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
